@@ -1,2 +1,2 @@
 # local_passcode_crack
--Session tdata modifier for deleting telegram passcode local
+-Session TDATA modifier to remove local passcode telegram and 2FA
