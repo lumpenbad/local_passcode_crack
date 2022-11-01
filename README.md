@@ -22,10 +22,6 @@ python TeleKiller.py
 - [x] pyHook
 - [x] pywin32
 
-
-## ScreenShot
-![29](https://user-images.githubusercontent.com/34939571/55636965-48a7ff80-57d9-11e9-8a65-f4023358830d.jpg)
-
 ## Operating Systems Tested
 
 - Windows 10
